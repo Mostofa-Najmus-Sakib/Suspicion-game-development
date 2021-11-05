@@ -1,0 +1,8 @@
+RBotCSPBestPlayerToAsk.class
+RBotCSPBestPlayerToAsk.class
+RBotCSP.class
+RBotCSP.class
+RBotRandom.class
+RBotRandom.class
+RBotProbabilistic.class
+RBotProbabilistic.class
